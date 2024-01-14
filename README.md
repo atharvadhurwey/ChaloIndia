@@ -15,3 +15,4 @@ Welcome to ChaloIndia, This web application is designed to provide users with a 
 
 - **PHP:** Power the backend functionalities, handling user authentication, database interactions, and more.
 
+---
